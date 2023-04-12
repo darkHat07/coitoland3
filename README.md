@@ -31,7 +31,7 @@
 4.	In the ***JVM ARGUMENTS*** text box, you will find a sequence of argument that control many components of the Java Virtual Machine in which Minecraft runs
 5.	Find the sequence of text that says ***-Xmx2G***
 > This indicates the maximum amount of RAM allocated to the JVM.
-7.	Only change the number within that string to half of your system's total memory.
+6.	Only change the number within that string to half of your system's total memory.
     + If you have 4 GB of RAM, keep the string as ***-Xmx2G***
     + If you have 8 GB of RAM, change the string to ***-Xmx4G***
     + If you have 32 GB of RAM, change the string to ***-Xmx16G***	
