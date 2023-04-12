@@ -46,7 +46,7 @@ the game will crash. This being said, large mod packs benefit from a larger RAM 
 
 All mods are contained within a ***.jar*** file
 
-1.  Install mods within the forge root folder (***minecraft_forge_1.18.2***)
+1. Install mods within the forge root folder (***minecraft_forge_1.18.2***)
 2. Paste all desired mod files inside the ***mods*** folder
 3. Close Finder/File Explorer and run the forge installation
 
