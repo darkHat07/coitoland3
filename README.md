@@ -3,7 +3,7 @@
 ## Forge Installation:
 
 1.  Run Minecraft for the first time
-2.  Open ***forge-1.18.2-40.2.0-installer.jar***
+2.  Open ***forge-1.18.2-40.2.1-installer.jar***
 3.  The jar file will automatically find your Minecraft root directory
 4.  Click on "Install Client" and wait for the libraries to install
 5.  Open the Minecraft launcher and click on Installations, on the top left
