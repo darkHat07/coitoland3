@@ -1,4 +1,4 @@
-# Forge 1.18.2
+# CoitoLand III
 
 ## Forge Installation:
 
@@ -51,3 +51,10 @@ All mods are contained within a ***.jar*** file
 3. Close Finder/File Explorer and run the forge installation
 
 You should see on the bottom left the amount of mods installed
+
+## Config Overwrite
+The ***config*** files in this repository are meant to provide performance improvements and compatibility optimizations with the ***CoitoLand III*** server. Overwriting these files is not required, but why wouldn't you?
+
+To overwrite the config files:
+1.  Head to ***~/.minecraft_forge_1.18.2/config***
+2.  Copy and paste this repository's ***config*** folder contents into the target directory (or remove and replace the files in ***~/.minecraft_forge_1.18.2/config***)
